@@ -28,3 +28,30 @@ h3 {
 button {
     margin: 5px; 
 }
+
+.off {
+    display: none; 
+}
+
+.flexContainer {
+    display: flex; 
+    width: 75%; 
+    text-align: center; 
+    margin: 0 auto; 
+}
+
+.oneitem {
+    width: 100%; 
+}
+
+.twoitems {
+    width: 45%; 
+}
+
+.threeitems {
+    width:30%; 
+}
+
+.box {
+    width: 100%; 
+}
