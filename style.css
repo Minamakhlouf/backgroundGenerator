@@ -38,7 +38,13 @@ button {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
 }
 
+.flexContainer {
+    display: flex; 
+    justify-content: space-evenly;
+}
+
 .comparisonBox {
     height: 400px; 
+    width: auto; 
     border: solid 5px red; 
 }
